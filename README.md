@@ -23,4 +23,4 @@ This project demonstrates the use of basic Java concepts like classes, arrays, l
 ## 📂 File Structure
 
 ```bash
-├── LMS.java       # Main program implementing Book and Library classes
+├── LMS.java       # Main program implementing Books and Library classes
